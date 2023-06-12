@@ -10,7 +10,7 @@ I am fullstack developer.
 | UA | Native |
 | RU | Native |
 | EN | Upper Intermediate |
-| CZ | Intermediate |
+| CZ | Upper Intermediate |
 
 
 
