@@ -4,6 +4,7 @@ I am fullstack developer.
 
 - ✨ Nationality 🇺🇦
 - 📌 Location Prague, Czech republic
+- ⚙ University FEL ČVUT
 
 | Languages | Level |
 |--|--|
@@ -11,7 +12,6 @@ I am fullstack developer.
 | RU | Native |
 | EN | Upper Intermediate |
 | CZ | Upper Intermediate |
-
 
 
 |Main Technologies|Additional Technologies|
