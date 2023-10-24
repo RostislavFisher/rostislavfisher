@@ -22,7 +22,7 @@ ___
 <details>
 <summary><b>ČVUT AI Talk</b></summary>
 
-ČVUT AI Talk is regular meetup. Events consist of research presentation and public communication.
+ČVUT AI Talk is a regular meetup. Events consist of research presentation and public communication.
 | ČVUT AI Talk | Links |
 |--|--|
 | #1: Co je LLM, jaké vůbec existujou, ják je používat | [Prezentace](https://docs.google.com/presentation/d/1iV_r4OgYHQOt56Q2FtulrFdbVlvhVoQ_/edit?usp=sharing&ouid=112191343591369742786&rtpof=true&sd=true), [Novinky](https://docs.google.com/document/d/15EkQy-ChOwxrWzYU47DmTsKjD_hU7_48dV77ojjpD_k/edit?usp=sharing)|
