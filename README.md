@@ -25,9 +25,9 @@ ___
 ČVUT AI Talk is a regular meetup. Events consist of research presentation and public communication.
 | ČVUT AI Talk | Links | Date |
 |--|--|--|
-| #1: Co je LLM, jaké vůbec existujou, ják je používat | [Prezentace](https://docs.google.com/presentation/d/1iV_r4OgYHQOt56Q2FtulrFdbVlvhVoQ_/edit?usp=sharing&ouid=112191343591369742786&rtpof=true&sd=true), [Novinky](https://docs.google.com/document/d/15EkQy-ChOwxrWzYU47DmTsKjD_hU7_48dV77ojjpD_k/edit?usp=sharing)| 6.10.2023 15:00 |
+| #1: Co je LLM, jaké vůbec existujou, ják je používat | [Poster](https://i.ibb.co/jyLttn6/1234567.png), [Prezentace](https://docs.google.com/presentation/d/1iV_r4OgYHQOt56Q2FtulrFdbVlvhVoQ_/edit?usp=sharing&ouid=112191343591369742786&rtpof=true&sd=true), [Novinky](https://docs.google.com/document/d/15EkQy-ChOwxrWzYU47DmTsKjD_hU7_48dV77ojjpD_k/edit?usp=sharing)| 6.10.2023 15:00 |
 | #2: Decoder-only Transformer OpenAI GPT Fine-tuning (In progress)| [Prezentace](https://docs.google.com/presentation/d/1yBaBV_08I7exmR9DiXz1aJZOz53UkAJ7/edit?usp=sharing&ouid=112191343591369742786&rtpof=true&sd=true) | |
-| #2: Encoder-only Transformer Fine-tuning (In progress)| | |
+| Encoder-only Transformer Fine-tuning (In progress)| | |
 | Decoder-only Transformer LLaMa Fine-tuning (In progress)| | |
 | Special Meetup: AI philosophy (In progress)| | |
 | Word Embedding (In progress)| | |
