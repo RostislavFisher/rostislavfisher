@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm a fullstack software engineer
+I'm a fullstack software engineer from the city of Prague. 
 
-💻 Currently Working on: Optimization of my AI-related project.
+
+I have experience in WEB, Android, Desktop and AI developing. I have also created my own WEB frameworks, a scraper framework and various universal protocols for modules(both software and hardware)
+
+💻 Currently Working on: AI Framework
 
 🎓 Currently learning: AI and everything linked
 
