@@ -33,6 +33,7 @@ ___
 | Encoder-only Transformer Fine-tuning (In progress)| | |
 | Decoder-only Transformer LLaMa Fine-tuning (In progress)| | |
 | Special Meetup: AI philosophy (In progress)| | |
+| Special Meetup: AI philosophy[Debata] (In progress)| | |
 | Word Embedding (In progress)| | |
 
 
