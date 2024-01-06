@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 I'm a fullstack software engineer from the city of Prague. 
@@ -45,28 +46,83 @@ ___
 <details>
 <summary><b>Technologies I use</b></summary>
 
-| Main Technologies | Additional Technologies |
-|--|--|
-| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) |
-| ![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | ![sys admin](https://img.shields.io/badge/-Sys%20Admin-000000?style=flat&logo=linux&logoColor=white) |
-| ![nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) |
-| ... | ... |
+___
+<details>
+<summary><b>Programming languages</b></summary>
 
-| Frontend Technologies | Additional Frontend Technologies |
-|--|--|
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) |
-| ... | ... |
-
-| Other Technologies |
+| Technology |
 |--|
-| ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |
-| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| ... |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)|
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)|
+| ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)|
+| ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)|
+| ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)|
 
+</details>
+
+
+<details>
+<summary><b>WebTechnologies</b></summary>
+
+| Frontend | Backend |
+|--|--|
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white) |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) |  |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |  |
+| ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) | | |
+</details>
+
+
+<details>
+<summary><b>DevOps Technologies</b></summary>
+
+| Technology |
+|--|
+| ![sys admin](https://img.shields.io/badge/-Sys%20Admin-000000?style=flat&logo=linux&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) |
+
+</details>
+
+
+<details>
+<summary><b>Android Technologies</b></summary>
+
+| Technology |
+|--|
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |
+
+</details>
+
+<details>
+<summary><b>ML/AI technologies</b></summary>
+
+| Technology |
+|--|
+| ![Tenserflow](https://img.shields.io/badge/-Tenserflow-FF6600?style=flat&&logoColor=white) |
+| ![SKLearn](https://img.shields.io/badge/-SKLearn-blue?style=flat&logoColor=white) |
+| ![OpenAI](https://img.shields.io/badge/-OpenAI-50C878?style=flat&logoColor=white)|
+| ![OpenAI](https://img.shields.io/badge/-GoogleAI-4285F4?style=flat&logo=google-cloud&logoColor=white)|
+
+
+</details>
+
+
+<details>
+<summary><b>Other technologies</b></summary>
+
+| Technology |
+|--|
+| ![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
+| ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)|
+| ![SQL](https://img.shields.io/badge/-SQL-07405E?style=flat&logoColor=white)|
+
+</details>
 </details>
