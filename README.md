@@ -22,6 +22,7 @@ ___
 | 🇷🇺 | Native |
 | 🇬🇧 | Upper Intermediate |
 | 🇨🇿 | Upper Intermediate |
+| 🇭🇺 | Beginner |
 
 <details>
 <summary><b>ČVUT AI Talk</b></summary>
