@@ -4,7 +4,9 @@
 I'm a fullstack software engineer from the city of Prague. 
 
 
-I have experience in WEB, Android, Desktop, Smart contracts, arduino/esp/raspberry and AI developing. I have also created my own WEB frameworks, a scraper framework and various universal protocols for modules(both software and hardware)
+I have experience in WEB, Android, Desktop, Smart contracts, arduino/esp/raspberry and AI developing. I have also created my own WEB frameworks, a scraper framework and various universal protocols for modules(both software and hardware). 
+
+Besides, I was also an active city activist. I am the author of Kyiv Warta of Urbanism community and various articles about Kyiv posted on it.
 
 💻 Currently Working on: AI Framework
 
