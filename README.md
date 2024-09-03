@@ -6,7 +6,7 @@
 
 
 
-**Please, visit my [Real estate tracker](https://warta.cz) :)**
+**Please, visit my [Real estate tracker](https://warta.website) :)**
 <details>
 <summary>Read more about Real estate tracker</summary>
 
