@@ -13,7 +13,7 @@
 ___
 
 <details>
-<summary>🏛️ European Parliament votes analyzer 🏛️</summary>
+<summary>🏛️ European Parliament Vote Analyzer 🏛️</summary>
 
 ___
 </details>
