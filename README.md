@@ -6,19 +6,18 @@
 
 
 
+
 <details>
-<summary>Read more about Real estate tracker</summary>
+<summary>🖥️ Interesting Projects 🖥️</summary>
 
 ___
-1.  🏃‍♂️ Our simple scraper scans social networks and collects all publications.
-2.  🕵️‍♂️ It then searches for rental listings on the TG, FB, etc.
-3.  ✍️ The rental listings are analyzed and classified using ML models.
-4.  🤩 The listings are provided to users!
+
+<details>
+<summary>🏛️ European Parliament votes analyzer 🏛️</summary>
+
+___
 </details>
-<details>
-<summary>🖥️ Other Interesting Projects 🖥️</summary>
 
-___
 <details>
 <summary>🪧 Kyivan Warta of Urbanism (Київська Варта Урбанізму) 🪧</summary>
 
@@ -26,6 +25,18 @@ ___
 **Kyivan Warta of Urbanism (Київська Варта Урбанізму) [2021-2022]** - A non-profit political organization that wrote articles about city issues.
 
 </details>
+
+
+<details>
+<summary>🏡 Real estate tracker 🏡</summary>
+
+___
+1.  🏃‍♂️ Our simple scraper scans social networks and collects all publications.
+2.  🕵️‍♂️ It then searches for rental listings on the social media(TG, FB, etc).
+3.  ✍️ The rental listings are analyzed and classified by AI models.
+4.  🤩 The listings are provided to users!
+</details>
+
 <details>
 <summary>🐵 Bonobo Framework 🐵</summary>
 
