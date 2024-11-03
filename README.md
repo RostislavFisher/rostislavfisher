@@ -11,8 +11,8 @@
 
 ___
 1.  🏃‍♂️ Our simple scraper scans social networks and collects all publications.
-2.  🕵️‍♂️ It then searches for rental listings.
-3.  ✍️ The rental listings are analyzed and classified.
+2.  🕵️‍♂️ It then searches for rental listings on the TG, FB, etc.
+3.  ✍️ The rental listings are analyzed and classified using ML models.
 4.  🤩 The listings are provided to users!
 </details>
 <details>
