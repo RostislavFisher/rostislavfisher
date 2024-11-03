@@ -42,5 +42,5 @@ ___
 | 🇷🇺 | Native |
 | 🇬🇧 | Upper Intermediate |
 | 🇨🇿 | Upper Intermediate |
-| 🇭🇺 | Beginner |
+| 🇭🇺 |  |
 ___
