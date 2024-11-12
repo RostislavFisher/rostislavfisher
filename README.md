@@ -5,7 +5,7 @@
 - ⚙ Alma mater - University FEL ČVUT
 
 
-
+Checkout my new project [MEP Activity Analyser](https://github.com/RostislavFisher/EUMEPs)!
 
 <details>
 <summary>🖥️ Interesting Projects 🖥️</summary>
