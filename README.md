@@ -22,7 +22,7 @@ ___
 <summary>🪧 Kyivan Warta of Urbanism (Київська Варта Урбанізму) 🪧</summary>
 
 ___
-**Kyivan Warta of Urbanism (Київська Варта Урбанізму) [2021-2022]** - A non-profit political organization that wrote articles about city issues.
+**Kyivan Warta of Urbanism (Київська Варта Урбанізму) [2021-2022]** - A non-profit political organization focused on addressing urban issues in Kyiv through articles and activism.
 
 </details>
 
