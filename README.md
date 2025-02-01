@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏙️ I am an active city activist. I am the author of Kyiv Warta of Urbanism community and various articles about Kyiv city posted on it.
+- 🏙️ Former city activist in Kyiv (Author of Kyiv Warta of Urbanism community), now a classlib activist in Prague (Author of analyses on the European Parliament, member of SfL CZ) 
 - 📌 Location - Prague, Czech republic
 - ⚙ Alma mater - University FEL ČVUT
 
