@@ -1,55 +1,71 @@
-- 📌 Location - Prague, Czech republic
-- ⚙ Alma mater - University FEL ČVUT
+# Rostislav
 
 
-Checkout [My Political Datasets](https://huggingface.co/rostislavfisher)!
+📍 Prague, Czech Republic  
+🎓 FEL ČVUT (Czech Technical University in Prague)  
+
+Hugging Face: https://huggingface.co/rostislavfisher
+
+---
+
+## Selected Projects
 
 <details>
-<summary>🖥️ Interesting Projects 🖥️</summary>
+<summary><strong>🏛 European Parliament Vote Analyzer</strong></summary>
 
-___
+<br>
 
-<details>
-<summary>🏛️ European Parliament Vote Analyzer 🏛️</summary>
+The main goal is to track long-term trends, detect inconsistencies, and make political positions comparable across time and institutions.
 
-___
+This project is primarily aimed at political analysts, researchers, and people working with parliamentary data.
+
 </details>
 
 <details>
-<summary>🪧 Kyivan Warta of Urbanism (Київська Варта Урбанізму) 🪧</summary>
+<summary><strong>🪧 Kyivan Warta of Urbanism (Київська Варта Урбанізму)</strong></summary>
 
-___
-**Kyivan Warta of Urbanism (Київська Варта Урбанізму) [2021-2022]** - A non-profit political organization focused on addressing urban issues in Kyiv through articles and activism.
+<br>
 
-</details>
+A non-profit civic initiative active in 2021–2022, focused on urban policy issues in Kyiv.
 
+The organization worked through articles, investigations, and public activism, aiming to draw attention to problems in urban planning and city governance.
 
-<details>
-<summary>🏡 Real estate tracker 🏡</summary>
-
-___
-1.  🏃‍♂️ Our simple scraper scans social networks and collects all publications.
-2.  🕵️‍♂️ It then searches for rental listings on the social media(TG, FB, etc).
-3.  ✍️ The rental listings are analyzed and classified by AI models.
-4.  🤩 The listings are provided to users!
 </details>
 
 <details>
-<summary>🐵 Bonobo Framework 🐵</summary>
+<summary><strong>🏡 Real Estate Tracker</strong></summary>
 
-___
-[Bonobo](https://github.com/RostislavFisher/Bonobo) is a simple PHP backend framework.
+<br>
+
+An AI-powered system that searches for rental listings on social media platforms such as Telegram and Facebook.
+
+Publications are collected automatically, analyzed by ML models, and classified to detect rental offers.  
+The filtered listings are then delivered directly to users, removing a lot of manual searching noise.
+
 </details>
+
+<details>
+<summary><strong>🐵 Bonobo Framework</strong></summary>
+
+<br>
+
+Bonobo is a lightweight PHP backend framework designed for simplicity and clarity.
+
+It’s intentionally minimal, avoiding heavy abstractions and complex conventions, and works well for small to medium-sized projects.
+
+GitHub: https://github.com/RostislavFisher/Bonobo
+
 </details>
 
-___
+---
 
-| Languages |
+## Languages I speak
+
+| Language |
 |--|
-| 🇺🇦 |
-| 🇷🇺 |
-| 🇬🇧 |
-| 🇨🇿 |
-| 🇭🇺 |
-| 🇩🇪 |
-___
+| 🇬🇧 English |
+| 🇨🇿 Czech |
+| 🇷🇺 Russian |
+| 🇺🇦 Ukrainian |
+| 🇭🇺 Hungarian |
+| 🇩🇪 German |
