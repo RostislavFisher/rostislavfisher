@@ -1,11 +1,8 @@
-### Hi there 👋
-
-- 🏙️ Former city activist in Kyiv (Author of Kyiv Warta of Urbanism community), now a classlib activist in Prague (Author of analyses on the European Parliament, member of SfL CZ) 
 - 📌 Location - Prague, Czech republic
 - ⚙ Alma mater - University FEL ČVUT
 
 
-Checkout my new project [MEP Activity Analyser](https://github.com/RostislavFisher/EUMEPs)!
+Checkout [My Political Datasets](https://huggingface.co/rostislavfisher)!
 
 <details>
 <summary>🖥️ Interesting Projects 🖥️</summary>
@@ -47,11 +44,12 @@ ___
 
 ___
 
-| Languages | Level |
-|--|--|
-| 🇺🇦 | Native |
-| 🇷🇺 | Native |
-| 🇬🇧 | Upper Intermediate |
-| 🇨🇿 | Upper Intermediate |
-| 🇭🇺 |  |
+| Languages |
+|--|
+| 🇺🇦 |
+| 🇷🇺 |
+| 🇬🇧 |
+| 🇨🇿 |
+| 🇭🇺 |
+| 🇩🇪 |
 ___
